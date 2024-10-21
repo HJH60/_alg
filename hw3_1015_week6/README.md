@@ -2,4 +2,4 @@
 $$
 f(x, y) = \sin(xy) + e^x
 $$
-![](hw3.jpg)
+![alt text](hw3.jpg)
